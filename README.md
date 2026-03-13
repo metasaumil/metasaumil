@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=metasaumil&color=blue)
-
 <h1 align="center">Hi 👋, I'm Saumil Agarwal</h1>
 
 <h3 align="center">Computer Science Engineer | Embedded Systems | Machine Learning</h3>
